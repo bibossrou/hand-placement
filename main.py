@@ -26,5 +26,5 @@ while verif:
         break
 
 
-cam.release()
+cam.release() 
 cv2.destroyAllWindows()
