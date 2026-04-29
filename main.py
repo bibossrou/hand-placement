@@ -2,15 +2,8 @@ import cv2
 import numpy as np
 import mediapipe as mp
 
-
 cam = cv2.VideoCapture(0)
 verif = True
-
-
-
-
-cam.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
-cam.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
 
 if not cam.isOpened():
     print("Cam pas ouverte")
