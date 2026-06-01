@@ -1,0 +1,8 @@
+fingers counting.v1i.yolov8/
+Finger count.v2i.yolov8/
+runs/
+yolov8m.pt
+yolov8n.pt
+V2/venv
+V2/hand_landmarker.task
+V2/tempCodeRunnerFile.py
